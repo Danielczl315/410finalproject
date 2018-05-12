@@ -1,0 +1,1 @@
+Gene1  Gene2  oddsratio  pvalue     pearson    p_pval     HC

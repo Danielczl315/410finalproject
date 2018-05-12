@@ -1,0 +1,2 @@
+Gene1  Gene2  oddsratio  pvalue     pearson    p_pval     HC
+3265   4763   1.22250000 0.76737550 NA         NA         NA       
