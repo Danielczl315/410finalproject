@@ -1,0 +1,44 @@
+TCGA-OR-A5L2 1.0 3    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5LB 1.0 21    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5LO 1.0 15    1
+Name: OS_STATUS, dtype: int64 1
+TCGA-OR-A5K2 1.0 20    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5JA 1.0 11    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5JB 1.0 12    1
+Name: OS_STATUS, dtype: int64 1
+TCGA-OR-A5J4 1.0 5    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5K9 1.0 22    1
+Name: OS_STATUS, dtype: int64 1
+TCGA-OR-A5KZ 1.0 2    1
+Name: OS_STATUS, dtype: int64 1
+TCGA-OR-A5J5 1.0 6    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5J2 1.0 9    1
+Name: OS_STATUS, dtype: int64 1
+TCGA-OR-A5K5 1.0 19    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-P6-A5OF 1.0 14    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5LL 1.0 16    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5LD 1.0 18    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5J7 1.0 7    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5JY 1.0 17    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5J8 1.0 10    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5LJ 1.0 4    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-P6-A5OH 1.0 0    1
+Name: OS_STATUS, dtype: int64 1
+TCGA-OR-A5JC 1.0 13    1
+Name: OS_STATUS, dtype: int64 2
+TCGA-OR-A5LC 1.0 1    1
+Name: OS_STATUS, dtype: int64 2
